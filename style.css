@@ -1,0 +1,12 @@
+/* Custom Design */
+.custom-font-style{
+    font-family: 'Volkhov', serif;
+}
+.custom-btn-design{
+    transition: background-color 0.3s ease-in-out;
+    color: crimson;
+}
+.custom-btn-design:hover{
+    background-color: crimson;
+    color: white;
+}
